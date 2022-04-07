@@ -15,3 +15,6 @@
 - 在main.c的初始化阶段，调用函数Usart1_TX_DMA_Init()
 - 其余地方像使用Printf一样使用Usart_Printf一样即可
 
+## 3. P.S.
+
+- USART1对应的GPIO针脚为PA9与PB7
